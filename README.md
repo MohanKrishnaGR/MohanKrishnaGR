@@ -7,7 +7,7 @@
 </div>
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a Computer Science Engineer specializing in Artificial Intelligence and Machine Learning.</p>
+    <p>I'm a Computer Science Engineer specializing in Artificial Intelligence and Machine Learning. With a renounded vigour for Embedded AI and Optimized Software Development.</p>
 </div>
 <div align="center">
   <div align="center">
