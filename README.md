@@ -52,6 +52,12 @@
     
 </div>
 
+###
+---
+    
+### Activity:
+
+[![Mohan's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohanKrishnaGR&theme=github-dark)](https://github.com/MohanKrishnaGR)
 
 <!--
 **MohanKrishnaGR/MohanKrishnaGR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
